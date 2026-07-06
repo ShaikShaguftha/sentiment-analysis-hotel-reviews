@@ -18,8 +18,11 @@ words while Transformers understand full sentence context.
 - Transformers
 
 ## Results
-![VADER Sentiment Analysis Chart](chart1.png)
-![Transformer Sentiment Analysis Chart](chart2.png)
+![VADER Chart](<img width="552" height="502" alt="chart1" src="https://github.com/user-attachments/assets/7a90d0dc-9d4b-42c5-b5ad-86e123c9c3d5" />
+)
+
+![Transformer Chart](<img width="543" height="521" alt="chart2" src="https://github.com/user-attachments/assets/8c0cda31-909f-4f5e-bf2b-47ea877d8d7f" />
+)
 
 ## Files
 - review_sentiment_analysis.ipynb — full notebook with code
